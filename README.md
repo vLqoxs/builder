@@ -1,0 +1,1 @@
+this file runs your cmd with options to build or edit or kill (the software) and edit you can change the api's and start coding your own executor due to it being a false psotive your anit virus must be turned off or this will not run correctly 
